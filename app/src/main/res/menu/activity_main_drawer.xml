@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dog"
+            android:icon="@drawable/doguinho"
+            android:title="@string/menu_dog" />
+        <item
+            android:id="@+id/nav_cat"
+            android:icon="@drawable/gato"
+            android:title="@string/menu_cat" />
+        <item
+            android:id="@+id/nav_bird"
+            android:icon="@drawable/falcao"
+            android:title="@string/menu_bird" />
+    </group>
+</menu>

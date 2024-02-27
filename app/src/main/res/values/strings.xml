@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">pmd2A04Atv01</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">PMD2 - Aula04 Drawer</string>
+    <string name="nav_header_subtitle">wellington.neto@estudante.ifto.edu.br</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_configuracao">Configuração</string>
+    <string name="menu_contato">Contato</string>
+
+    <string name="menu_dog">DOG - Pastor Belga Malinois</string>
+    <string name="menu_cat">CAT - Gato Sphynx</string>
+    <string name="menu_bird">BIRD - Falcão Peregrino</string>
+</resources>
